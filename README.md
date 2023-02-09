@@ -5,7 +5,6 @@
   <img width=60% alt="Hello!" src="https://th.bing.com/th/id/R.c2ce2d82a11c90b05ad4abd796ef2fff?rik=KbfBjIDOTXhn5Q&riu=http%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f09%2fanime-waving-gif-4.gif&ehk=vbF00Xm8Woqb05BN%2bLBaxy8IeV274tMydxR2iBZF9g8%3d&risl=&pid=ImgRaw&r=0">
 </picture>
 </p>
-<br>
 I am a web developer who specialized in Frontend. Graphic Design is my background and therefore not only programming, but I also capable of using design tools.
 
 - 🌱 I’m currently learning **React**

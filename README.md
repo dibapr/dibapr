@@ -11,21 +11,21 @@ I am a web developer who specialized in Frontend. Graphic Design is my backgroun
 
 ### 💻 Languages and Tools:</h3>
 
-<a href="#"><img width=40px style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
-<a href="#"><img width=40px style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></a>
-<a href="#"><img width=40px style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
-<a href="#"><img width=40px style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
-<a href="#"><img width=40px style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
-<a href="#"><img width=40px style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></a>
-<a href="#"><img width=40px style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" /></a>
-<a href="#"><img width=40px style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a>
-<a href="#"><img width=40px style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
-<a href="#"><img width=40px style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
-<a href="#"><img width=40px style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
-<a href="#"><img width=40px style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /></a>
-<a href="#"><img width=40px style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /></a>
-<a href="#"><img width=40px style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" /></a>
-<a href="#"><img width=40px style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" /></a>
+<a href="#" style="display: inline-block; padding-right: 30px;"><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
+<a href="#" style="display: inline-block; padding-right: 30px;"><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></a>
+<a href="#" style="display: inline-block; padding-right: 30px;"><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+<a href="#" style="display: inline-block; padding-right: 30px;"><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+<a href="#" style="display: inline-block; padding-right: 30px;"><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+<a href="#" style="display: inline-block; padding-right: 30px;"><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></a>
+<a href="#" style="display: inline-block; padding-right: 30px;"><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" /></a>
+<a href="#" style="display: inline-block; padding-right: 30px;"><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a>
+<a href="#" style="display: inline-block; padding-right: 30px;"><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
+<a href="#" style="display: inline-block; padding-right: 30px;"><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+<a href="#" style="display: inline-block; padding-right: 30px;"><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
+<a href="#" style="display: inline-block; padding-right: 30px;"><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /></a>
+<a href="#" style="display: inline-block; padding-right: 30px;"><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /></a>
+<a href="#" style="display: inline-block; padding-right: 30px;"><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" /></a>
+<a href="#" style="display: inline-block; padding-right: 30px;"><img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" /></a>
 
 ### 📈 My Github Stats:
 

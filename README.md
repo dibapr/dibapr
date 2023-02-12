@@ -6,7 +6,7 @@
 </picture>
 </p>
 I am a web developer who specialized in Frontend. Graphic Design is my background and therefore not only programming, but I also capable of using design tools.
-<br>
+<br></br>
 - 🌱 I’m currently learning <bold>React</bold>.
 - 📫 How to reach me: <bold>dimasbayu6401@gmail.com</bold>.
 

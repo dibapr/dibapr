@@ -36,5 +36,3 @@ Remember that I said I'm capable of using design tool as well? Click [here](http
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibapr&show_icons=true&locale=en&theme=radical" alt="dibapr" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibapr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-> 🎮 I do love Gaming 🎮
